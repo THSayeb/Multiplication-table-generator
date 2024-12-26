@@ -1,3 +1,4 @@
+
 print("Multiplication table generator")
 num = int(input("Enter a number for table "))
 
